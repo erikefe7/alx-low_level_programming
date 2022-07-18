@@ -30,6 +30,7 @@ void free_listp2(listp_t **head)
  *
  * Return: size of the list that was freed.
  */
+
 size_t free_listint_safe(listint_t **h)
 {
 	size_t lover = 0;
@@ -56,7 +57,7 @@ size_t free_listint_safe(listint_t **h)
 			if (*h == add->p)
 			{
 				*h = NULL;
-				free listp2(&hptr);
+				free_listp2(&hptr);
 				return (lover);
 			}
 		}
