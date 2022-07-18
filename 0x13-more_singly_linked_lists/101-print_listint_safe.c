@@ -66,6 +66,6 @@ size_t print_listint_safe(const listint_t *head)
 		lover++;
 	}
 
-	freelistp(&hptr);
+	free_listp(&hptr);
 	return (lover);
 }
