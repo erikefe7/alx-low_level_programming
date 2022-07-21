@@ -4,7 +4,6 @@
 
 |          `Task`          |          `Description`          |
 | ------------------------ | ------------------------------- |
-
 |    `0-print_listint.c`   |     Prints the list elements    |
 | ------------------------ | ------------------------------- |
 |     `1-listint_len.c`    |    Returns number of elements   |
