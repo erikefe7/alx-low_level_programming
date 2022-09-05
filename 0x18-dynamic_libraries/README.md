@@ -1,11 +1,11 @@
-## Dynamic Libraries
+# Dynamic Libraries
 
-# Understanding the difference between static and dynamic libraries
-'''bash
+## Understanding the difference between static and dynamic libraries
+```bash
 the advantages and disadvantages of using dynamic libraries in the linking process of your projects and functions calling
-'''
+```
 
-# Tools
+## Tools
 * Git and Git bash
 * Linux 20.04 via ALX sandbox
 * Windows 10
